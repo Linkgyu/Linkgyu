@@ -1,12 +1,9 @@
-<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&Hi%20Mate&#33%20%F0%9F%A4%97&color=gradient)
-</div>
+
   
 
 <div>
   <!--Body-->
-  ## 👀 About Me
+  ## 👀 Hi Mate!<br/>
   #### :raising_hand: Mining Engineer from South Korea.<br/>
   #### :fire: Interested in Computational Geomechanics and numerical modelling.<br/>
 </div>
